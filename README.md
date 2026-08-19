@@ -1,1 +1,1 @@
-# Klab_AI-program
+# AI and Machine Learning projects at Klab
